@@ -1,0 +1,1 @@
+This repository contains instructional materials for the first semester Ph.D. class in econometrics at the University of California - Berkeley.
