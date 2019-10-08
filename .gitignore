@@ -25,6 +25,8 @@
 *.*#
 *.bib
 *.*~
+
+# Source spreadsheet files
 *.ods
 *.xls
 *.xlsx
